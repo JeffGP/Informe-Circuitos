@@ -1,6 +1,6 @@
 # Informe-Circuitos
 - Marco Teórico:
-   - Ley de kirchhoff corriente.-
+- Ley de kirchhoff corriente.-
    
       La ley de corriente o también conocida como primera ley o ley de nodos de Kirchhoff (LCK) establece que “En cualquier nodo, la suma algebraica de las corrientes       eléctricas que entran  es igual  a la suma de corrientes que salen. Como equivalente, la suma algebraica de todas las corrientes que pasan por el nodo es igual       a cero”
         
@@ -12,7 +12,7 @@
    
       La corriente eléctrica es un flujo de electrones que circula a través de materiales conductores en un circuito cerrado.
       
-   - Ley de kirchhoff voltaje.-
+- Ley de kirchhoff voltaje.-
    
       La ley de voltaje de Kirchhoff (LVK) dice que “la suma algebraica de las caídas de voltajes en un circuito cerrado o malla  es igual a cero”
 

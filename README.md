@@ -1,10 +1,10 @@
 # Informe-Circuitos
 - Objetivos:
-   1. Objetivo General
+  1.- Objetivo General
    
      - Observar y estudiar las leyes de Kirchhoff con la ayuda de simuladores de circuitos electricos para expandir los conocimientos prácticos y teóricos.
      
-   2. Objetivos Específicos
+  2.- Objetivos Específicos
    
      - Evidenciar que las leyes de voltaje y corriente de Kirchhoff son demostradas en la practica.
      

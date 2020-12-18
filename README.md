@@ -54,19 +54,19 @@
 
      Cantidad Material o Equipo
      
-     - 1 Fuente de Voltaje de C.D.
+     * 1 Fuente de Voltaje de C.D.
      
-     - 2 Multímetros Digitales
+     * 2 Multímetros Digitales
      
-     - 1 Resistor de 1 kΩ
+     * 1 Resistor de 1 kΩ
      
-     - 2 Resistores de 2.2 kΩ
+     * 2 Resistores de 2.2 kΩ
      
-     - 1 Resistor de 1.8 kΩ
+     * 1 Resistor de 1.8 kΩ
      
-     - 1 Resistor de 3.9 kΩ
+     * 1 Resistor de 3.9 kΩ
      
-     - 1 Protoboard
+     * 1 Protoboard
 
 
 

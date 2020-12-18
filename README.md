@@ -32,6 +32,8 @@
 
    - Circuito cerrado:
    
+   ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abc.com.py%2Fedicion-impresa%2Fsuplementos%2Fescolar%2Fcircuito-electrico-1266152.html&psig=AOvVaw2hzDB77zCeJ6STDbQeC5fL&ust=1608344307581000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICqxdO71u0CFQAAAAAdAAAAABAD)
+   
       Es una serie de uno solo o varios componentes unidos entre si que hacen circular la corriente desde el polo positivo al polo negativo de una fuente de                   alimentación, en el caso de la corriente alterna circula desde la fase al neutro.
       
    - Circuito abierto:

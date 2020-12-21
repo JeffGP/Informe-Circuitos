@@ -13,13 +13,17 @@
      
      - Demostrar la diferencia e importancia de la conexcion en paralelo y serie.
      
-![Diagrama en blanco](https://user-images.githubusercontent.com/76134214/102702370-ef436680-422f-11eb-9551-46e5a5d370a2.png)
-      
-- MATERIAL Y EQUIPO REQUERIDO
-
-     Cantidad Material o Equipo
+  3.- Marco Teórico   
      
-     * 1 Fuente de Voltaje de C.D.
+![Diagrama en blanco](https://user-images.githubusercontent.com/76134214/102702370-ef436680-422f-11eb-9551-46e5a5d370a2.png)
+   
+   4.- Diagramas
+   
+   5.- Material y Equipo requerido
+
+   Cantidad Material o Equipo
+     
+   * 1 Fuente de Voltaje de C.D.
      
      * 2 Multímetros Digitales
      
@@ -32,8 +36,14 @@
      * 1 Resistor de 3.9 kΩ
      
      * 1 Protoboard
-     
- - PROCEDIMIENTO 
+   
+   6.- Explicación
+   
+   7.- Conclusiones
+   
+   8.- Biograía
+   
+   9.- Anexos
 
-    ![image](https://user-images.githubusercontent.com/76134214/102729024-d5bc2080-42fc-11eb-9b49-e023a5800bc4.png)
+   ![image](https://user-images.githubusercontent.com/76134214/102729024-d5bc2080-42fc-11eb-9b49-e023a5800bc4.png)
 

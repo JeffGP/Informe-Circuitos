@@ -21,9 +21,15 @@
    
    - Circuito General
    
+   ![image](https://user-images.githubusercontent.com/76134214/102729920-af987f80-4300-11eb-9ece-5d53efa9d3b2.png)
+
    - Circuito Voltajes
    
+   ![image](https://user-images.githubusercontent.com/76134214/102729927-b1fad980-4300-11eb-9de3-11b39391ea64.png)
+   
    - Circuito Intensidades/Corriente
+   
+   ![image](https://user-images.githubusercontent.com/76134214/102729929-b45d3380-4300-11eb-80d7-d5b28da34e1c.png)
    
    5.- Material y Equipo requerido
 

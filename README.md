@@ -32,7 +32,8 @@
      * 1 Resistor de 3.9 kΩ
      
      * 1 Protoboard
-
+     
+ - PROCEDIMIENTO 
 
 
 

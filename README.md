@@ -19,6 +19,12 @@
    
    4.- Diagramas
    
+   - Circuito General
+   
+   - Circuito Voltajes
+   
+   - Circuito Intensidades/Corriente
+   
    5.- Material y Equipo requerido
 
    Cantidad Material o Equipo

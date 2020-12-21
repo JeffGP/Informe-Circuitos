@@ -51,6 +51,8 @@
    
    6.- Explicación
    
+   ![tabla 1](https://user-images.githubusercontent.com/76134214/102731728-9397dc80-4306-11eb-85bd-bde61590f06c.jpeg)
+   
    7.- Conclusiones
    
    8.- Biografía

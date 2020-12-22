@@ -33,7 +33,7 @@
    
    4.- Material y Equipo requerido
 
-   ![image](https://user-images.githubusercontent.com/76132461/102843993-6fa4cb80-43d8-11eb-9ddc-6740564763d6.png)
+   ![image](https://user-images.githubusercontent.com/76134214/102844939-792f3300-43da-11eb-84e0-ac18c8f02a5b.png)
 
    
    5.- Explicación

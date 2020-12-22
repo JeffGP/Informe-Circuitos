@@ -97,6 +97,8 @@ del nodo. Anote los resultados en la tabla 1.3.
    
    7.- Biografía
    
+   - Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+   
 
 
    

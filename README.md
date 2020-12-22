@@ -78,9 +78,9 @@
    
    - Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
         
-     Tabla 1.2. Verificación de la LVK.
+  Tabla 1.2. Verificación de la LVK.
      
-     ![image](https://user-images.githubusercontent.com/76134214/102841870-bd6b0500-43d3-11eb-8a6c-a004e478b986.png)
+  ![image](https://user-images.githubusercontent.com/76134214/102841870-bd6b0500-43d3-11eb-8a6c-a004e478b986.png)
         
    - Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.

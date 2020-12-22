@@ -96,6 +96,8 @@ del nodo. Anote los resultados en la tabla 1.3.
    6.- Conclusiones
    
    * En el circuito serie se observó que la intensidad de la corriente era la misma para cada una de las resistencias, al contrario del voltaje el cual se calculo independientemente en cada una de ellas. A diferencia del circuito serie, en el circuito paralelo, se observo que la intensidad de corriente total se divide entre resistencias y nodos; en el caso del voltaje se dio el mismo valor en los extremos de cada resistencia.
+   * En conclusión, las leyes de voltaje y de corriente de Kirchhoff se pueden evidenciar con un pequeño margen de error, esto debido por lo antes mencionado los cuales son los redondeos y decimales, igualmente se puede comprobar en los simuladores cada voltaje y corriente que fluye por cada elemento con el fin de tener en cuenta que en el simulador también puede tener ciertos errores, pero aun así se evidencia que se cumple la ley de Kircchoff.
+   * En las tablas se pudo concluir que las leyes de Kirchhoff se están cumpliendo tanto con la corriente como con el voltaje, ya que las sumas de las corrientes que entran a un nodo son igual a la suma de las corrientes que salen del dicho nodo, mientras que el voltaje tiende a cero cuando se suman por trayectorias, demostrando de esta forma las leyes anteriormente mencionadas. 
    
    7.- Biografía
    

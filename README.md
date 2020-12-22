@@ -33,7 +33,8 @@
    
    4.- Material y Equipo requerido
 
-   
+   ![image](https://user-images.githubusercontent.com/76132461/102843993-6fa4cb80-43d8-11eb-9ddc-6740564763d6.png)
+
    
    5.- Explicación
         - Realizar un circuito en Tinkercad

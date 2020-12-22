@@ -61,7 +61,7 @@
        
    - Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
    
-   ![tabla 1](https://user-images.githubusercontent.com/76134214/102731728-9397dc80-4306-11eb-85bd-bde61590f06c.jpeg)
+   ![image](https://user-images.githubusercontent.com/76134214/102844442-7b44c200-43d9-11eb-97da-cddb4f84f7f4.png)
    
    - Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
         

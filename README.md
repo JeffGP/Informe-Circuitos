@@ -72,7 +72,7 @@
   Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
   
   Los resultados medidos y calculados en las trayectorias 1 y 2, presentan un mínimo margen de error, debido a que dentro del simulador Tinkercad los valores medidos
-  ya son redondeados automaticamente delimitandose a maximo dos decimales; de esta forma al aplicar la ley de Kirchhoff para voltaje en los valores calculados, llega a aproximarse al cero absoluto pero presentando un porcentaje de -0.001% de error el cual no es muy amplio. Por otro lado en la trayectoria 3 al ser un circuito cerrado, tanto el valor calculado como medido seran los mismos, dando asi el cero absoluto.
+  ya son redondeados automaticamente delimitandose a maximo dos decimales; de esta forma al aplicar la ley de Kirchhoff para voltaje en los valores calculados, llega a aproximarse al cero absoluto pero presentando un porcentaje de -0.01% de error el cual no es muy amplio. Por otro lado en la trayectoria 3 al ser un circuito cerrado, tanto el valor calculado como medido seran los mismos, dando asi el cero absoluto.
   
   ![image](https://user-images.githubusercontent.com/76132461/102846072-13907600-43dd-11eb-956d-d290b722e801.png)
  

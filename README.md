@@ -68,6 +68,14 @@
   Tabla 1.2. Verificación de la LVK.
      
   ![image](https://user-images.githubusercontent.com/76134214/102841870-bd6b0500-43d3-11eb-8a6c-a004e478b986.png)
+  
+  Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+  
+  Los resultados medidos y calculados en las trayectorias 1 y 2, presentan un mínimo margen de error, debido a que dentro del simulador Tinkercad los valores medidos
+  ya son redondeados automaticamente delimitandose a maximo dos decimales; de esta forma al aplicar la ley de Kirchhoff para voltaje en los valores calculados, llega a aproximarse al cero absoluto pero presentando un porcentaje de -0.001% de error el cual no es muy amplio. Por otro lado en la trayectoria 3 al ser un circuito cerrado, tanto el valor calculado como medido seran los mismos, dando asi el cero absoluto.
+  
+  ![image](https://user-images.githubusercontent.com/76132461/102846072-13907600-43dd-11eb-956d-d290b722e801.png)
+ 
         
    - Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.
@@ -78,11 +86,8 @@ del nodo. Anote los resultados en la tabla 1.3.
   
   Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
   
-  
-  
-  
-  
-  
+   
+ 
   Los resultados medidos y resultados calculados en el nodo 1 y en el nodo 2, tienen un mínimo margen de error, esto es debido a que en el caso de los resultados medidos el propio simulador redondea los valores, de esta forma cuando se realiza la ley de Kirchhoff para corriente, no se llega a un cero absoluto teniendo un error de -0.24%, mediante que en los resultados calculados, omitmimos muchos decimales los cuales son cruciales para tener el valor exacto y debido a esto se tiene un error del -0.19%, pero si se obtiene el valor de todos los decimales es muy probable que tengamos un resultado muy aproximado hacia el cero, de esa forma se comprueba la ley de Kirchhoff.
   
   ![image](https://user-images.githubusercontent.com/76132461/102841570-2c942980-43d3-11eb-9a22-c0e6354e5478.png)

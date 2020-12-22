@@ -5,7 +5,7 @@
    
      - Observar y estudiar las leyes de Kirchhoff con la ayuda de simuladores de circuitos electricos para expandir los conocimientos prácticos y teóricos.
      
-  2.- Objetivos Específicos
+  1.1.- Objetivos Específicos
    
      - Evidenciar que las leyes de voltaje y corriente de Kirchhoff son demostradas en la practica.
      
@@ -13,11 +13,11 @@
      
      - Demostrar la diferencia e importancia de la conexcion en paralelo y serie.
      
-  3.- Marco Teórico   
+  2.- Marco Teórico   
      
 ![Diagrama en blanco](https://user-images.githubusercontent.com/76134214/102702370-ef436680-422f-11eb-9551-46e5a5d370a2.png)
    
-   4.- Diagramas
+   3.- Diagramas
    
    - Circuito General
    
@@ -31,7 +31,7 @@
    
    ![image](https://user-images.githubusercontent.com/76134214/102729929-b45d3380-4300-11eb-80d7-d5b28da34e1c.png)
    
-   5.- Material y Equipo requerido
+   4.- Material y Equipo requerido
 
    Cantidad Material o Equipo
      
@@ -49,15 +49,15 @@
      
    * 1 Protoboard
    
-   6.- Explicación
+   5.- Explicación
    
    ![tabla 1](https://user-images.githubusercontent.com/76134214/102731728-9397dc80-4306-11eb-85bd-bde61590f06c.jpeg)
    
-   7.- Conclusiones
+   6.- Conclusiones
    
-   8.- Biografía
+   7.- Biografía
    
-   9.- Anexos
+   8.- Anexos
 
    ![image](https://user-images.githubusercontent.com/76134214/102729024-d5bc2080-42fc-11eb-9b49-e023a5800bc4.png)
 

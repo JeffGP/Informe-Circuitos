@@ -57,7 +57,7 @@
    
    7.- Biografía
    
-   8.- Anexos
 
-   ![image](https://user-images.githubusercontent.com/76134214/102729024-d5bc2080-42fc-11eb-9b49-e023a5800bc4.png)
+
+   
 

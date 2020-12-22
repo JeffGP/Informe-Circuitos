@@ -50,8 +50,25 @@
    * 1 Protoboard
    
    5.- Explicación
+        - Realizar un circuito en Tinkercad
+        1. Se ingresa a la plataforma Tinkercad, se crea una cuenta, a continuación en el apartado de circuitos seleccionar nuevo circuito.
+        2. Se seleccionan los materiales que vamos a utilizar, una placa de pruebas, 5 resistencias, multimetros digitales y una fuente de voltaje.
+        3. Se coloca el respectivo voltaje a la fuente de voltaje y el respectivo valor a las resistencias.
+        4. Se conecta la fuente de voltaje al positivo y negativo de la placa de pruebas.
+        5. Se procede a conectar la resistencia R1 al positivo de la fuente y del otro extremo se conecta la resistencia R2.
+        6. Del extremo de la resistencia R2 se conecta la resistencia R5 y del extremo de esta hacia el negativo.
+        7. La resistencia R3 se conecta a un punto comúm entre las resistencias R1 y R2 y del otro extremo de la resistencia R3 se conecta la resistencia R4.
+        8. La resistencia R4 se conecta a un punto común de las resistencias R5 y R2.
+        9. Finalmente se conecta el voltímetro y el amperímetro en cada resistencia.
+       Una vez tomados los valores de cada resistencia se procedera a tabularlos en la tabla de voltajes e intensidad en la sección de "medido", con la ayuda de la ley de Ohm y la ley de Kirchhoff se procedera a sacar los valores calculados y se anotaran en la tabla en la sección correspondiente.
+        - Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
    
    ![tabla 1](https://user-images.githubusercontent.com/76134214/102731728-9397dc80-4306-11eb-85bd-bde61590f06c.jpeg)
+        - Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+        Tabla 1.2. Verificación de la LVK.
+        - Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla 1.3.
+        Tabla 1.3. Verificación de la LCK.
    
    6.- Conclusiones
    

@@ -86,6 +86,15 @@ del nodo. Anote los resultados en la tabla 1.3.
   Tabla 1.3. Verificación de la LCK.
   
   ![image](https://user-images.githubusercontent.com/76132461/102838905-4d598080-43cd-11eb-821d-88b3e1280e76.png)
+  
+  Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+  
+  
+  
+  
+  Los resultados medidos y resultados calculados en el nodo 1, tienen un mínimo margen de error, esto es debido a que en el caso de los resultados medidos el propio simulador redondea los valores, de esta forma cuando se realiza la ley de Kirchhoff para corriente, no se llega a un cero absoluto teniendo un error de -0.24%, mediante que en los resultados calculados, omitmimos muchos decimales los cuales son cruciales para tener el valor exacto y debido a esto se tiene un error del -0.19%, pero si se obtiene el valor de todos los decimales es muy probable que tengamos un resultado muy aproximado hacia el cero, de esa forma se comprueba la ley de Kirchhoff.
+  
+  
    
    6.- Conclusiones
    

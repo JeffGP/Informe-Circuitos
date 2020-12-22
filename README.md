@@ -94,12 +94,12 @@ del nodo. Anote los resultados en la tabla 1.3.
   
   
   
-  Los resultados medidos y resultados calculados en el nodo 1, tienen un mínimo margen de error, esto es debido a que en el caso de los resultados medidos el propio simulador redondea los valores, de esta forma cuando se realiza la ley de Kirchhoff para corriente, no se llega a un cero absoluto teniendo un error de -0.24%, mediante que en los resultados calculados, omitmimos muchos decimales los cuales son cruciales para tener el valor exacto y debido a esto se tiene un error del -0.19%, pero si se obtiene el valor de todos los decimales es muy probable que tengamos un resultado muy aproximado hacia el cero, de esa forma se comprueba la ley de Kirchhoff.
+  
+  
+  Los resultados medidos y resultados calculados en el nodo 1 y en el nodo 2, tienen un mínimo margen de error, esto es debido a que en el caso de los resultados medidos el propio simulador redondea los valores, de esta forma cuando se realiza la ley de Kirchhoff para corriente, no se llega a un cero absoluto teniendo un error de -0.24%, mediante que en los resultados calculados, omitmimos muchos decimales los cuales son cruciales para tener el valor exacto y debido a esto se tiene un error del -0.19%, pero si se obtiene el valor de todos los decimales es muy probable que tengamos un resultado muy aproximado hacia el cero, de esa forma se comprueba la ley de Kirchhoff.
   
   ![image](https://user-images.githubusercontent.com/76132461/102841570-2c942980-43d3-11eb-9a22-c0e6354e5478.png)
-
-  
-  
+   
    
    6.- Conclusiones
    
